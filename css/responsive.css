@@ -1,0 +1,182 @@
+@media (max-width: 375px) {
+  #event-description p {
+    font-size: 2em;
+  }
+
+  #event-description .event-date p {
+    font-size: 2em;
+  }
+
+  #subscription-form p {
+    font-size: 1.5em;
+  }
+
+  .benefit p {
+    margin: 1em 0;
+  }
+
+  #about-location h3 {
+    font-size: 1.8em;
+  }
+
+  #address i {
+    margin: 0;
+  }
+
+  #details .detail-desciption {
+    font-size: .7em;
+    padding: 0;
+  }
+
+  #details .detail-desciption h3 {
+    margin: auto;
+  }
+
+  .detail-description {
+    padding-left: 1em;
+  }
+
+  .detail-description ul li {
+    font-size: 1.2em;
+    padding-left: 0;
+  }
+
+  #cta h3 {
+    font-size: 1.8em;
+  }
+
+  #footer {
+    padding: 0 1.5em;
+  }
+}
+
+@media (max-width: 450px) {
+  .btn {
+    opacity: 1;
+  }
+
+  #event-description {
+    flex-direction: column;
+    height: auto;
+  }
+
+  #disclainer {
+    padding: 2em;
+  }
+
+  #disclainer h2 {
+    margin-bottom: .5em;
+    font-size: 2.5em;
+  }
+
+  #disclainer .about-event {
+    font-size: 1.5em;
+    margin-bottom: .5em;
+  }
+
+  .event-date {
+    font-size: 1.3em;
+  }
+
+  #disclainer p {
+    font-size: 1.8em;
+  }
+
+  #subscription-form {
+    max-width: 80%;
+    margin-bottom: 2em;
+    padding: 1.5em;
+    font-size: 1.2em;
+  }
+
+  #subscription-form ::placeholder {
+    font-size: 1.2em;
+  }
+
+  select#interest {
+    font-size: .8em;
+  }
+
+  .btn {
+    font-size: .8em;
+  }
+
+  .benefits {
+    flex-direction: column;
+    align-items: center;
+    width: auto;
+    padding: 2em;
+  }
+
+  .benefit {
+    max-width: 100%;
+    margin-bottom: 2em;
+  }
+
+  .benefit p {
+    font-size: 1.2em;
+    margin-bottom: 1em;
+  }
+
+  #location {
+    flex-direction: column;
+    height: auto;
+    text-align: center;
+    padding: 2em 0;
+  }
+
+  #address {
+    order: 2;
+    flex-direction: column;
+    max-width: 100%;
+  }
+
+  #address i {
+    margin: .3em 0;
+  }
+
+  #about-location {
+    order: 1;
+    max-width: 100%;
+  }
+
+  #about-location h3 {
+    margin-bottom: 0;
+  }
+
+  #about-location p {
+    display: none
+  }
+
+  .detail {
+    flex-direction: column;
+    margin-bottom: .5em;
+    gap: 0;
+  }
+
+  .detail img {
+    width: 100%;
+    margin: 2em 0;
+  }
+
+  #detail-1 img {
+    display: none;
+  }
+
+  .detail-desciption {
+    font-size: .8em;
+    padding: 0 2em;
+    text-align: center;
+  }
+
+  .detail-description {
+    order: 2;
+    margin: 1em 0;
+  }
+
+  #cta .btn {
+    font-size: 1.1em;
+    width: 80%;
+  }
+
+}
