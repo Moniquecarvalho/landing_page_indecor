@@ -1,34 +1,39 @@
-# 🏡 Interior Design — Página de Evento
+<div align="center">
 
+  <h2 align="center">Interior Design - Página de Evento</h2>
+
+  <p align="center">
 
 Este projeto é uma landing page para um evento de decoração de interiores, desenvolvida utilizando HTML e CSS, como parte do meu processo de aprendizado e evolução na área de front-end.
-
 O principal objetivo foi criar uma estrutura visual agradável, com foco na organização de conteúdo e formulário de cadastro. Trabalhei a hierarquia de seções e a disposição dos elementos para tornar a navegação mais fluida e intuitiva para o usuário.
+  <br />
+  <br />
+ <a href="https://moniquecarvalho.github.io/landing_page_indecor/"><strong>Visualizar o projeto »</strong></a> 
+  <br />
+  <br />
+  </p>
+</div>
+<p><b>Versão Web</p>
+  <img src="./img/tela.png.png" alt="Ttela versão web"> 
+  
+**Descrição:**  
+Tela de produto exibida em resolução desktop, com todos os elementos bem distribuídos e aproveitamento completo do espaço da tela.
 
 ## 📱 Responsividade
-✅ Totalmente responsivo para:
+Totalmente responsivo para:
 
 - **Celulares**
 - **Tablets**
 - **Desktops**
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
-- 📝 Formulário de inscrição para receber detalhes sobre o evento
--🖼️ Seções com imagem e texto alternados, proporcionando um visual dinâmico
-- 📢 Chamada final para incentivar a inscrição
-- 📌 Rodapé com informações do evento
-- 📱 Layout responsivo adaptado para diferentes tamanhos de tela
+-  Formulário de inscrição para receber detalhes sobre o evento
+- Seções com imagem e texto alternados, proporcionando um visual dinâmico
+- Chamada final para incentivar a inscrição
+- Rodapé com informações do evento
+- Layout responsivo adaptado para diferentes tamanhos de tela
 
-## 🖼️ Imagem do Projeto
-### 🖥️ Resolução Desktop
-
-![Imagem na resolução Desktop ](./img/tela.png)
-
-**Descrição:**
-Seções bem distribuídas, com imagens e textos organizados lado a lado, proporcionando uma leitura agradável e estética moderna.
-
----
 
 ### 📱 Resolução 425px (Tablet / Celular maior)
 
@@ -45,15 +50,6 @@ Elementos reorganizados para melhor adaptação em tablets e celulares maiores, 
 
 **Descrição:**
 Layout ajustado para celulares menores, com conteúdo centralizado e fácil de navegar.
-
----
-
-
-
-
-## 🔗 Acesse o Projeto
-
-👉 [Clique aqui para visualizar a página](https://moniquecarvalho.github.io/site-tech-store/)
 
 
 ## 🚀 Tecnologias Utilizadas
