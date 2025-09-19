@@ -19,12 +19,7 @@ O principal objetivo foi criar uma estrutura visual agradável, com foco na orga
 **Descrição:**  
 Tela de produto exibida em resolução desktop, com todos os elementos bem distribuídos e aproveitamento completo do espaço da tela.
 
-## 📱 Responsividade
-Totalmente responsivo para:
-
-- **Celulares**
-- **Tablets**
-- **Desktops**
+</br>
 
 ##  Funcionalidades
 
@@ -34,28 +29,14 @@ Totalmente responsivo para:
 - Rodapé com informações do evento
 - Layout responsivo adaptado para diferentes tamanhos de tela
 
-
-### 📱 Resolução 425px (Tablet / Celular maior)
-
-![Tela do produto em resolução 425px](./img/resolucao-425.png)
-
-**Descrição:**
-Elementos reorganizados para melhor adaptação em tablets e celulares maiores, mantendo clareza e usabilidade.
-
----
-
-### 📱 Resolução 375px (Celular)
-
-![Tela do produto em resolução 425px](./img/resolucao-425.png)
-
-**Descrição:**
-Layout ajustado para celulares menores, com conteúdo centralizado e fácil de navegar.
-
+</br>
 
 ## 🚀 Tecnologias Utilizadas
 
 - **HTML5**
 - **CSS3**
+
+  </br>
 
 ## 💡 Sobre Mim
 Atualmente estou me dedicando ao aprendizado contínuo em desenvolvimento front-end, e este projeto representa mais um passo nessa trajetória. Cada novo desafio contribui com minha evolução como desenvolvedora.
